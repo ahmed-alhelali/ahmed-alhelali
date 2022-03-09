@@ -27,5 +27,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-alhelali&" alt="ahmed-alhelali" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-alhelali)](https://github.com/anuraghazra/github-readme-stats)
-
