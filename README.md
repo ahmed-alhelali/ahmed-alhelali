@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ahmed Alhelali</h1>
-<h3 align="center">Mobile App's Developer</h3>
+<h3 align="center">Mobile Apps Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-alhelali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-alhelali" /> </p>
 
