@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmed__alhelali" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed__alhelali?logo=twitter&style=for-the-badge" alt="ahmed__alhelali" /></a> </p>
 
-- 🔭 I’m currently **CS Student**
+- 🔭 I’m a **CS Graduate**
 
 - 🤸‍♀️ I’m currently learning **Flutter 💙 , Laravel**
 
