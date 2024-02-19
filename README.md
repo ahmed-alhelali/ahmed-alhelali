@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Ahmed Alhelali</h1>
-<h3 align="center">Mobile Apps Developer</h3>
+<h1 align="center">Hey 👋, I'm Ahmed</h1>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-alhelali&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-alhelali" /> </p>
 
@@ -7,9 +7,7 @@
 
 - 🔭 I’m a **CS Graduate**
 
-- 🤸‍♀️ I’m currently learning **Flutter 💙 , Laravel**
-
-- 👉🏻 Ask me about **Flutter, Firebase Services**
+- 🤸‍♀️ In love with **Flutter 💙**
 
 - 📫 How to reach me **AhmedAlhelali.A@gmail.com**
 
